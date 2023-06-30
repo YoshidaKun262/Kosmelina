@@ -1,0 +1,8 @@
+:root{
+    --cor-de-fundo: linear-gradient( #04B100, #A8A8A8); 
+    --botao-branco-secundario: #FFFFFF;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
